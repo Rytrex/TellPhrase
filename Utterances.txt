@@ -1,0 +1,6 @@
+dissFriends phrase {PHRASE}
+dissFriends {PHRASE}
+
+dissFriendsRandom a random phrase
+dissFriendsRandom a phrase
+dissFriendsRandom random
